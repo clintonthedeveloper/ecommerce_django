@@ -89,7 +89,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 DATABASES= {
 'default':  {
     'ENGINE':'django.db.backends.mysql',
-    'NAME':'myCruddb',
+    'NAME':'myprojdb',
     'USER':'root',
     'PASSWORD':'',
     'HOST':'localhost',
